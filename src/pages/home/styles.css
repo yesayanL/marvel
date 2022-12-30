@@ -1,0 +1,16 @@
+.home {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.row {
+    display: flex;
+    cursor: pointer;
+}
+
+.hero-image-list {
+    height: 60px;
+    width: 60px
+}
